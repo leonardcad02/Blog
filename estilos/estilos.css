@@ -1,10 +1,6 @@
 body
 {
-<<<<<<< HEAD
-    color: #b34;
-=======
-    color: rgb(119, 17, 253);
->>>>>>> cabecera
+    color: rgb(119,17,253);
     text-align: center;
     font-family: Arial;
     font-size: 16px;
@@ -20,7 +16,7 @@ body
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
-}
+}   
 
 #cabecera #tagline
 {
