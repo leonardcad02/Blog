@@ -3,3 +3,14 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: coral;
 }
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 2px solid rgb(108, 194, 216);
+    margin: 0 auto;
+}
+
+#container h1 {
+    font-size: 25px;
+}
